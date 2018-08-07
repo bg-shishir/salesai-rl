@@ -1,0 +1,16 @@
+,action,qid,stage,prob-of-YES
+0,open_1,0,open,0.9
+1,open_2,1,open,0.1
+2,open_3,2,open,0.5
+3,open_4,3,open,0.1
+4,open_5,4,open,0.9
+5,ask_1,5,ask,0.5
+6,ask_2,6,ask,0.9
+7,ask_3,7,ask,0.1
+8,ask_4,8,ask,0.1
+9,ask_5,9,ask,0.9
+10,close_1,10,close,0.5
+11,close_2,11,close,0.9
+12,close_3,12,close,0.1
+13,close_4,13,close,0.2
+14,close_5,14,close,0.9
